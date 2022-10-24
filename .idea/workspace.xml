@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68bb10f4-d466-4e5b-9bdd-50eebc2799ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/CharAtGivenIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/CheckIfTwoStringAreAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/ReversingAStringWithoutBuiltInFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/ReversingSortingAListJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/SortingCustomObjectsUsingStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/SortingNumberUsingJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/User.java" afterDir="false" />
+    <list default="true" id="68bb10f4-d466-4e5b-9bdd-50eebc2799ac" name="Changes" comment="Commit-1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/CheckIfStringHasAllUniqueChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/CheckTheLengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/ProblemOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/ProblemTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStuff/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +44,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckIfTwoStringAreAnagram">
-    <configuration name="CheckIfTwoStringAreAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.CheckIfTwoStringAreAnagram" />
+  <component name="RunManager" selected="Application.ProblemOne">
+    <configuration name="CheckIfStringHasAllUniqueChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.CheckIfStringHasAllUniqueChar" />
       <module name="HackerRankPrograms_AssessmentPrep" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingAStringWithoutBuiltInFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.ReversingAStringWithoutBuiltInFunctions" />
+    <configuration name="CheckTheLengthOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.CheckTheLengthOfString" />
       <module name="HackerRankPrograms_AssessmentPrep" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingSortingAListJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.ReversingSortingAListJava8" />
+    <configuration name="ProblemOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.ProblemOne" />
       <module name="HackerRankPrograms_AssessmentPrep" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingCustomObjectsUsingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.SortingCustomObjectsUsingStreams" />
+    <configuration name="ProblemTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.ProblemTwo" />
       <module name="HackerRankPrograms_AssessmentPrep" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingNumberUsingJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.SortingNumberUsingJava8" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringStuff.test" />
       <module name="HackerRankPrograms_AssessmentPrep" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckIfTwoStringAreAnagram" />
-        <item itemvalue="Application.ReversingAStringWithoutBuiltInFunctions" />
-        <item itemvalue="Application.SortingCustomObjectsUsingStreams" />
-        <item itemvalue="Application.ReversingSortingAListJava8" />
-        <item itemvalue="Application.SortingNumberUsingJava8" />
+        <item itemvalue="Application.ProblemOne" />
+        <item itemvalue="Application.ProblemTwo" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.CheckTheLengthOfString" />
+        <item itemvalue="Application.CheckIfStringHasAllUniqueChar" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666350829131</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit-1">
+      <created>1666353885678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666353885678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit-1" />
   </component>
 </project>
